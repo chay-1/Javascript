@@ -9,6 +9,6 @@ function outerFun(a) {
 
 
 const addTen = outerFun(10);  
-console.log(addTen(5)); 
+console.log(addTen(5));
 
 

@@ -1,6 +1,5 @@
-const day = "Monday"; // You can change this value to test different outputs
-// Check the day and respond accordingly
-switch (day) // Start of switch statement
+const day = "Monday"; 
+switch (day) 
 {
    case "Monday": // If day is Monday
        console.log("Start of the week.");
