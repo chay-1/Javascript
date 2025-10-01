@@ -5,3 +5,4 @@ function add(a, b) {
 let result = add(5, 10);
 console.log(result); 
 
+ 
